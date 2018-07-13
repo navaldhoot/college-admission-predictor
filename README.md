@@ -1,4 +1,4 @@
-## College Admission Predictor
+#  College Admission Predictor
 
 
 College Admission Predictor is the website which helps student to find out the prediction of the college on the basis of JEE Main Rank. 
