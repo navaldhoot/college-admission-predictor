@@ -1,0 +1,121 @@
+body{
+	font-family:'Lato';
+}
+.container{
+	width:100%!important;
+	padding:0px!important;
+}
+
+.row{
+	margin:0px!important;
+}
+
+.clg-heading{
+	margin:20px 0px 0px 0px!important;
+    padding-left: 10px!important;
+}
+
+    .head-under{
+		text-align: center;
+    width: 400px;
+    border: 2px solid #5abd56;
+    margin-right: 50%;
+    margin-left: 0;
+    margin-top: 8px;
+	
+	}
+	
+.clg-heading h3 {
+    font-family: Open Sans, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+	color:#262161;
+}
+.clg-heading h1 {
+    font-family: Open Sans, sans-serif;
+    font-weight: 900;
+	color:#262161;
+    font-size: 45px;
+}
+
+/************MENU***************/
+
+
+.logo img{
+	width:auto;
+	height:200px;
+}
+
+
+.login-menu{
+background:#5abd56;
+text-align:center;
+}
+.menu-center{
+	padding:18px 0px;
+}
+.login-menu a{
+	margin:0px 10px;
+color:white;
+text-decoration:none;
+font-size:20px;
+font-weight:300;
+
+}
+.login-menu a:hover{
+	color:yellow;
+	text-decoration:none;
+	font-size:30px;
+	}
+
+.login-menu a:active{
+	color:black!important;
+	text-decoration:none;
+	
+	
+}
+
+
+.login-menu ul li{
+display:inline-block;
+padding:10px;	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*******************FOOTER**************/
+.footer{
+	text-align:center;
+	background:#5abd56;
+}
+
+.footer  .cpy-text{
+		font-size:20px;
+		font-family:'Lato';
+		color:white;
+		font-weight:700;
+		padding:10px 0px;
+}
+
+
+
